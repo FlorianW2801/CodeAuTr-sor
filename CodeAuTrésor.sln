@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeAuTrésor", "CodeAuTrésor\CodeAuTrésor.csproj", "{D7494E50-6A00-42B7-921D-193901C25BF0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolutionCodeAuTresor", "SolutionCodeAuTresor\SolutionCodeAuTresor.csproj", "{61CD0986-B47D-4B9D-8367-AA8070A3113E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7494E50-6A00-42B7-921D-193901C25BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7494E50-6A00-42B7-921D-193901C25BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7494E50-6A00-42B7-921D-193901C25BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7494E50-6A00-42B7-921D-193901C25BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CD0986-B47D-4B9D-8367-AA8070A3113E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CD0986-B47D-4B9D-8367-AA8070A3113E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CD0986-B47D-4B9D-8367-AA8070A3113E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CD0986-B47D-4B9D-8367-AA8070A3113E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A542365-26CF-49DB-BD23-67E4487CFC55}
+	EndGlobalSection
+EndGlobal
